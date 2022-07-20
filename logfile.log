@@ -1,0 +1,1481 @@
+2022-07-20 05:07:04,649 INFO  [Log] search() PASSED 
+2022-07-20 05:07:05,611 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:07:07,850 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:07:08,017 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:07:09,877 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:07:12,214 INFO  [Log] addCount() PASSED 
+2022-07-20 05:07:13,372 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:07:33,192 INFO  [Log] search() PASSED 
+2022-07-20 05:07:35,444 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:07:37,627 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:07:37,782 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:07:39,600 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:07:41,968 INFO  [Log] addCount() PASSED 
+2022-07-20 05:07:43,123 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:14:21,811 INFO  [Log] search() PASSED 
+2022-07-20 05:14:22,413 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:14:24,505 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:14:24,550 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:14:26,076 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:14:28,203 INFO  [Log] addCount() PASSED 
+2022-07-20 05:14:29,249 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:15:44,868 INFO  [Log] search() PASSED 
+2022-07-20 05:15:45,401 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:15:47,480 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:15:47,525 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:15:49,006 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:15:51,131 INFO  [Log] addCount() PASSED 
+2022-07-20 05:15:52,187 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:32:37,008 ERROR [Log] search() FAILED with cause : Index 1 out of bounds for length 1 
+2022-07-20 05:32:37,489 ERROR [Log] search() FAILED with cause : Index 1 out of bounds for length 1 
+2022-07-20 05:32:38,045 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:32:39,029 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:32:40,138 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:32:40,185 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:32:41,104 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:32:41,160 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:32:41,725 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:32:42,764 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:32:43,916 INFO  [Log] addCount() PASSED 
+2022-07-20 05:32:44,940 INFO  [Log] addCount() PASSED 
+2022-07-20 05:32:44,987 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:32:45,984 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:33:10,345 ERROR [Log] search() FAILED with cause : Index 1 out of bounds for length 1 
+2022-07-20 05:33:11,018 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:33:13,093 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:33:13,138 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:33:14,591 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:33:16,723 INFO  [Log] addCount() PASSED 
+2022-07-20 05:33:17,767 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:35:26,318 ERROR [Log] search() FAILED with cause : Index 1 out of bounds for length 1 
+2022-07-20 05:35:26,956 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:35:29,050 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:35:29,096 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:35:30,599 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:35:32,730 INFO  [Log] addCount() PASSED 
+2022-07-20 05:35:33,775 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:35:50,556 ERROR [Log] search() FAILED with cause : Index 1 out of bounds for length 1 
+2022-07-20 05:35:51,186 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:35:53,275 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:35:53,323 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:35:54,814 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:35:56,962 INFO  [Log] addCount() PASSED 
+2022-07-20 05:35:58,009 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:44:09,443 INFO  [Log] search() PASSED 
+2022-07-20 05:44:11,864 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:44:14,045 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:44:14,211 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:44:16,133 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:44:18,798 INFO  [Log] addCount() PASSED 
+2022-07-20 05:44:19,958 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:45:04,065 INFO  [Log] search() PASSED 
+2022-07-20 05:45:04,649 ERROR [Log] randomSelect() FAILED with cause : no such window: window was already closed
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8750db6deae90e82177670b332fa6101, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49727}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49727/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8750db6deae90e82177670b332fa6101 
+2022-07-20 05:45:16,798 ERROR [Log] addProduct() FAILED with cause : chrome not reachable
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8750db6deae90e82177670b332fa6101, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49727}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49727/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8750db6deae90e82177670b332fa6101 
+2022-07-20 05:45:28,929 ERROR [Log] clickBasket() FAILED with cause : chrome not reachable
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8750db6deae90e82177670b332fa6101, findElement {using=id, value=cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49727}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49727/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8750db6deae90e82177670b332fa6101 
+2022-07-20 05:45:43,619 INFO  [Log] search() PASSED 
+2022-07-20 05:45:45,661 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:45:47,838 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:45:47,990 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:45:49,805 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:45:52,162 INFO  [Log] addCount() PASSED 
+2022-07-20 05:45:53,317 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:48:59,753 ERROR [Log] search() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='content']/div[3]/div[3]/div/a[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ec5905de6bca7efa9e3220bc07eeeea6, findElement {using=xpath, value=//*[@id='content']/div[3]/div[3]/div/a[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50398}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50398/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ec5905de6bca7efa9e3220bc07eeeea6 
+2022-07-20 05:48:59,810 ERROR [Log] randomSelect() FAILED with cause : Index 1 out of bounds for length 0 
+2022-07-20 05:48:59,849 ERROR [Log] addProduct() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ec5905de6bca7efa9e3220bc07eeeea6, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50398}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50398/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ec5905de6bca7efa9e3220bc07eeeea6 
+2022-07-20 05:49:00,051 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:49:01,103 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#js\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ec5905de6bca7efa9e3220bc07eeeea6, findElement {using=id, value=js-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50398}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50398/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ec5905de6bca7efa9e3220bc07eeeea6 
+2022-07-20 05:49:01,146 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ec5905de6bca7efa9e3220bc07eeeea6, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50398}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50398/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ec5905de6bca7efa9e3220bc07eeeea6 
+2022-07-20 05:49:01,182 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ec5905de6bca7efa9e3220bc07eeeea6, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50398}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50398/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ec5905de6bca7efa9e3220bc07eeeea6 
+2022-07-20 05:49:48,231 INFO  [Log] search() PASSED 
+2022-07-20 05:49:50,214 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:49:52,407 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:49:52,565 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:49:54,427 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:49:56,795 INFO  [Log] addCount() PASSED 
+2022-07-20 05:49:57,954 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:52:20,529 INFO  [Log] search() PASSED 
+2022-07-20 05:52:21,888 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:52:24,098 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:52:24,255 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:52:26,101 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:52:28,477 INFO  [Log] addCount() PASSED 
+2022-07-20 05:52:29,623 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:52:46,033 INFO  [Log] search() PASSED 
+2022-07-20 05:52:46,243 ERROR [Log] randomSelect() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fad54a4615e42a43adee720c9734ffe1, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51101}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51101/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fad54a4615e42a43adee720c9734ffe1 
+2022-07-20 05:52:46,280 ERROR [Log] addProduct() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fad54a4615e42a43adee720c9734ffe1, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51101}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51101/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fad54a4615e42a43adee720c9734ffe1 
+2022-07-20 05:52:46,430 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:52:47,465 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#js\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fad54a4615e42a43adee720c9734ffe1, findElement {using=id, value=js-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51101}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51101/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fad54a4615e42a43adee720c9734ffe1 
+2022-07-20 05:52:47,509 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fad54a4615e42a43adee720c9734ffe1, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51101}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51101/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fad54a4615e42a43adee720c9734ffe1 
+2022-07-20 05:52:47,547 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fad54a4615e42a43adee720c9734ffe1, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51101}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51101/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fad54a4615e42a43adee720c9734ffe1 
+2022-07-20 05:53:17,352 INFO  [Log] search() PASSED 
+2022-07-20 05:53:17,569 ERROR [Log] randomSelect() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e64698a9fc3f87590f123c4b2e9963eb, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51258}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51258/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e64698a9fc3f87590f123c4b2e9963eb 
+2022-07-20 05:53:17,609 ERROR [Log] addProduct() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e64698a9fc3f87590f123c4b2e9963eb, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51258}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51258/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e64698a9fc3f87590f123c4b2e9963eb 
+2022-07-20 05:53:17,767 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:53:18,801 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#js\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e64698a9fc3f87590f123c4b2e9963eb, findElement {using=id, value=js-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51258}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51258/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e64698a9fc3f87590f123c4b2e9963eb 
+2022-07-20 05:53:18,845 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e64698a9fc3f87590f123c4b2e9963eb, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51258}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51258/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e64698a9fc3f87590f123c4b2e9963eb 
+2022-07-20 05:53:18,881 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e64698a9fc3f87590f123c4b2e9963eb, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51258}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51258/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e64698a9fc3f87590f123c4b2e9963eb 
+2022-07-20 05:54:12,872 INFO  [Log] search() PASSED 
+2022-07-20 05:54:14,124 ERROR [Log] randomSelect() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3cd06aaa23eb32128703bbce2f26e2b1, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51457}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51457/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3cd06aaa23eb32128703bbce2f26e2b1 
+2022-07-20 05:54:14,169 ERROR [Log] addProduct() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3cd06aaa23eb32128703bbce2f26e2b1, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51457}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51457/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3cd06aaa23eb32128703bbce2f26e2b1 
+2022-07-20 05:54:14,332 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:54:15,371 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#js\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3cd06aaa23eb32128703bbce2f26e2b1, findElement {using=id, value=js-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51457}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51457/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3cd06aaa23eb32128703bbce2f26e2b1 
+2022-07-20 05:54:15,412 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3cd06aaa23eb32128703bbce2f26e2b1, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51457}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51457/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3cd06aaa23eb32128703bbce2f26e2b1 
+2022-07-20 05:54:15,448 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3cd06aaa23eb32128703bbce2f26e2b1, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51457}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51457/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3cd06aaa23eb32128703bbce2f26e2b1 
+2022-07-20 05:55:14,964 INFO  [Log] search() PASSED 
+2022-07-20 05:55:16,187 ERROR [Log] randomSelect() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b5c0b93e77fcbe9c531df4fa3c44cd21, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51683}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51683/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b5c0b93e77fcbe9c531df4fa3c44cd21 
+2022-07-20 05:55:16,231 ERROR [Log] addProduct() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b5c0b93e77fcbe9c531df4fa3c44cd21, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51683}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51683/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b5c0b93e77fcbe9c531df4fa3c44cd21 
+2022-07-20 05:55:16,386 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:55:17,429 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#js\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b5c0b93e77fcbe9c531df4fa3c44cd21, findElement {using=id, value=js-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51683}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51683/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b5c0b93e77fcbe9c531df4fa3c44cd21 
+2022-07-20 05:55:17,473 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b5c0b93e77fcbe9c531df4fa3c44cd21, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51683}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51683/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b5c0b93e77fcbe9c531df4fa3c44cd21 
+2022-07-20 05:55:17,518 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b5c0b93e77fcbe9c531df4fa3c44cd21, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51683}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51683/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b5c0b93e77fcbe9c531df4fa3c44cd21 
+2022-07-20 05:55:59,873 INFO  [Log] search() PASSED 
+2022-07-20 05:56:02,161 INFO  [Log] randomSelect() PASSED 
+2022-07-20 05:56:04,349 INFO  [Log] addProduct() PASSED 
+2022-07-20 05:56:04,519 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:56:06,364 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 05:56:08,740 INFO  [Log] addCount() PASSED 
+2022-07-20 05:56:09,893 INFO  [Log] clickCross() PASSED 
+2022-07-20 05:56:31,669 INFO  [Log] search() PASSED 
+2022-07-20 05:56:32,872 ERROR [Log] randomSelect() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8a0bbc4a9fe5edb6400257a2545b9bfd, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52022}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52022/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a0bbc4a9fe5edb6400257a2545b9bfd 
+2022-07-20 05:56:32,916 ERROR [Log] addProduct() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8a0bbc4a9fe5edb6400257a2545b9bfd, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52022}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52022/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a0bbc4a9fe5edb6400257a2545b9bfd 
+2022-07-20 05:56:33,073 INFO  [Log] clickBasket() PASSED 
+2022-07-20 05:56:34,115 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#js\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8a0bbc4a9fe5edb6400257a2545b9bfd, findElement {using=id, value=js-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52022}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52022/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a0bbc4a9fe5edb6400257a2545b9bfd 
+2022-07-20 05:56:34,163 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8a0bbc4a9fe5edb6400257a2545b9bfd, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52022}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52022/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a0bbc4a9fe5edb6400257a2545b9bfd 
+2022-07-20 05:56:34,200 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8a0bbc4a9fe5edb6400257a2545b9bfd, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52022}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52022/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a0bbc4a9fe5edb6400257a2545b9bfd 
+2022-07-20 06:00:04,077 INFO  [Log] search() PASSED 
+2022-07-20 06:00:06,259 ERROR [Log] randomSelect() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3e3302e050c9b867fb2dfe15c65d39b, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52477/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3e3302e050c9b867fb2dfe15c65d39b 
+2022-07-20 06:00:06,302 ERROR [Log] addProduct() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3e3302e050c9b867fb2dfe15c65d39b, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52477/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3e3302e050c9b867fb2dfe15c65d39b 
+2022-07-20 06:00:06,468 INFO  [Log] clickBasket() PASSED 
+2022-07-20 06:00:07,509 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#js\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3e3302e050c9b867fb2dfe15c65d39b, findElement {using=id, value=js-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52477/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3e3302e050c9b867fb2dfe15c65d39b 
+2022-07-20 06:00:07,547 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3e3302e050c9b867fb2dfe15c65d39b, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52477/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3e3302e050c9b867fb2dfe15c65d39b 
+2022-07-20 06:00:07,582 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3e3302e050c9b867fb2dfe15c65d39b, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52477/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3e3302e050c9b867fb2dfe15c65d39b 
+2022-07-20 06:00:48,666 INFO  [Log] search() PASSED 
+2022-07-20 06:00:50,871 ERROR [Log] randomSelect() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [49cfe6a593ca5cf55efef869de871689, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52671}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52671/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 49cfe6a593ca5cf55efef869de871689 
+2022-07-20 06:00:50,916 ERROR [Log] addProduct() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [49cfe6a593ca5cf55efef869de871689, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52671}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52671/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 49cfe6a593ca5cf55efef869de871689 
+2022-07-20 06:00:51,067 INFO  [Log] clickBasket() PASSED 
+2022-07-20 06:00:52,100 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#js\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [49cfe6a593ca5cf55efef869de871689, findElement {using=id, value=js-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52671}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52671/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 49cfe6a593ca5cf55efef869de871689 
+2022-07-20 06:00:52,139 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [49cfe6a593ca5cf55efef869de871689, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52671}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52671/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 49cfe6a593ca5cf55efef869de871689 
+2022-07-20 06:00:52,179 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [49cfe6a593ca5cf55efef869de871689, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52671}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52671/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 49cfe6a593ca5cf55efef869de871689 
+2022-07-20 12:03:09,968 INFO  [Log] search() PASSED 
+2022-07-20 12:03:12,043 ERROR [Log] randomSelect() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [61a8a04e66bde415ea64359bf6d1eb5e, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60578}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60578/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 61a8a04e66bde415ea64359bf6d1eb5e 
+2022-07-20 12:03:12,055 ERROR [Log] addProduct() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [61a8a04e66bde415ea64359bf6d1eb5e, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60578}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60578/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 61a8a04e66bde415ea64359bf6d1eb5e 
+2022-07-20 12:03:12,103 INFO  [Log] clickBasket() PASSED 
+2022-07-20 12:03:13,115 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#js\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [61a8a04e66bde415ea64359bf6d1eb5e, findElement {using=id, value=js-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60578}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60578/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 61a8a04e66bde415ea64359bf6d1eb5e 
+2022-07-20 12:03:13,128 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [61a8a04e66bde415ea64359bf6d1eb5e, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60578}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60578/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 61a8a04e66bde415ea64359bf6d1eb5e 
+2022-07-20 12:03:13,139 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [61a8a04e66bde415ea64359bf6d1eb5e, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60578}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60578/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 61a8a04e66bde415ea64359bf6d1eb5e 
+2022-07-20 12:04:01,600 INFO  [Log] search() PASSED 
+2022-07-20 12:04:03,669 ERROR [Log] randomSelect() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [57ca4beeb309234cdee2aef5a7b5df58, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61101}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61101/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 57ca4beeb309234cdee2aef5a7b5df58 
+2022-07-20 12:04:03,681 ERROR [Log] addProduct() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#button\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [57ca4beeb309234cdee2aef5a7b5df58, findElement {using=id, value=button-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61101}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61101/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 57ca4beeb309234cdee2aef5a7b5df58 
+2022-07-20 12:04:03,728 INFO  [Log] clickBasket() PASSED 
+2022-07-20 12:04:04,743 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#js\-cart"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [57ca4beeb309234cdee2aef5a7b5df58, findElement {using=id, value=js-cart}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61101}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61101/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 57ca4beeb309234cdee2aef5a7b5df58 
+2022-07-20 12:04:04,758 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [57ca4beeb309234cdee2aef5a7b5df58, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61101}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61101/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 57ca4beeb309234cdee2aef5a7b5df58 
+2022-07-20 12:04:04,768 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [57ca4beeb309234cdee2aef5a7b5df58, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61101}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61101/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 57ca4beeb309234cdee2aef5a7b5df58 
+2022-07-20 12:04:16,953 INFO  [Log] search() PASSED 
+2022-07-20 12:04:19,558 INFO  [Log] randomSelect() PASSED 
+2022-07-20 12:04:21,621 INFO  [Log] addProduct() PASSED 
+2022-07-20 12:04:21,669 INFO  [Log] clickBasket() PASSED 
+2022-07-20 12:04:23,103 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 12:04:25,218 INFO  [Log] addCount() PASSED 
+2022-07-20 12:04:26,263 INFO  [Log] clickCross() PASSED 
+2022-07-20 12:32:34,847 INFO  [Log] search() PASSED 
+2022-07-20 12:32:37,561 INFO  [Log] randomSelect() PASSED 
+2022-07-20 12:32:39,642 INFO  [Log] addProduct() PASSED 
+2022-07-20 12:32:39,715 INFO  [Log] clickBasket() PASSED 
+2022-07-20 12:32:41,262 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 12:32:42,461 ERROR [Log] addCount() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [906b96051c9b357dd0eb1dffac92ba71, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58706}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58706/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 906b96051c9b357dd0eb1dffac92ba71 
+2022-07-20 12:32:42,501 ERROR [Log] clickCross() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [906b96051c9b357dd0eb1dffac92ba71, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58706}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58706/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 906b96051c9b357dd0eb1dffac92ba71 
+2022-07-20 12:33:02,008 INFO  [Log] search() PASSED 
+2022-07-20 12:33:04,722 INFO  [Log] randomSelect() PASSED 
+2022-07-20 12:33:06,801 INFO  [Log] addProduct() PASSED 
+2022-07-20 12:33:06,876 INFO  [Log] clickBasket() PASSED 
+2022-07-20 12:33:08,412 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 12:33:10,599 INFO  [Log] addCount() PASSED 
+2022-07-20 12:33:11,658 INFO  [Log] clickCross() PASSED 
+2022-07-20 12:33:42,410 INFO  [Log] search() PASSED 
+2022-07-20 12:33:45,154 INFO  [Log] randomSelect() PASSED 
+2022-07-20 12:33:47,239 INFO  [Log] addProduct() PASSED 
+2022-07-20 12:33:47,313 INFO  [Log] clickBasket() PASSED 
+2022-07-20 12:33:48,897 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 12:33:51,069 INFO  [Log] addCount() PASSED 
+2022-07-20 12:33:52,138 INFO  [Log] clickCross() PASSED 
+2022-07-20 12:34:11,892 INFO  [Log] search() PASSED 
+2022-07-20 12:34:14,613 INFO  [Log] randomSelect() PASSED 
+2022-07-20 12:34:16,694 INFO  [Log] addProduct() PASSED 
+2022-07-20 12:34:16,766 INFO  [Log] clickBasket() PASSED 
+2022-07-20 12:34:18,281 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 12:34:20,462 INFO  [Log] addCount() PASSED 
+2022-07-20 12:34:21,521 INFO  [Log] clickCross() PASSED 
+2022-07-20 12:34:40,691 INFO  [Log] search() PASSED 
+2022-07-20 12:34:43,392 INFO  [Log] randomSelect() PASSED 
+2022-07-20 12:34:45,469 INFO  [Log] addProduct() PASSED 
+2022-07-20 12:34:45,542 INFO  [Log] clickBasket() PASSED 
+2022-07-20 12:34:47,183 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 12:34:49,373 INFO  [Log] addCount() PASSED 
+2022-07-20 12:34:50,435 INFO  [Log] clickCross() PASSED 
+2022-07-20 12:35:10,054 INFO  [Log] search() PASSED 
+2022-07-20 12:35:12,743 INFO  [Log] randomSelect() PASSED 
+2022-07-20 12:35:14,813 INFO  [Log] addProduct() PASSED 
+2022-07-20 12:35:14,885 INFO  [Log] clickBasket() PASSED 
+2022-07-20 12:35:16,429 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 12:35:18,601 INFO  [Log] addCount() PASSED 
+2022-07-20 12:35:19,662 INFO  [Log] clickCross() PASSED 
+2022-07-20 12:35:41,079 INFO  [Log] search() PASSED 
+2022-07-20 12:35:43,795 INFO  [Log] randomSelect() PASSED 
+2022-07-20 12:35:45,880 INFO  [Log] addProduct() PASSED 
+2022-07-20 12:35:45,953 INFO  [Log] clickBasket() PASSED 
+2022-07-20 12:35:47,643 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 12:35:49,822 INFO  [Log] addCount() PASSED 
+2022-07-20 12:35:50,891 INFO  [Log] clickCross() PASSED 
+2022-07-20 12:49:24,949 INFO  [Log] search() PASSED 
+2022-07-20 12:49:27,633 INFO  [Log] randomSelect() PASSED 
+2022-07-20 12:49:29,711 INFO  [Log] addProduct() PASSED 
+2022-07-20 12:49:29,783 INFO  [Log] clickBasket() PASSED 
+2022-07-20 12:49:31,294 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 12:49:33,494 INFO  [Log] addCount() PASSED 
+2022-07-20 12:49:34,555 INFO  [Log] clickCross() PASSED 
+2022-07-20 13:24:55,007 INFO  [Log] search() PASSED 
+2022-07-20 13:24:58,438 INFO  [Log] randomSelect() PASSED 
+2022-07-20 13:25:00,515 INFO  [Log] addProduct() PASSED 
+2022-07-20 13:25:00,601 INFO  [Log] clickBasket() PASSED 
+2022-07-20 13:25:02,818 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[4]/div[1]/a"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e009bab2c722888af1a397c00822e913, findElement {using=xpath, value=//*[@id="cart_module"]/div[4]/div[1]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56367}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56367/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e009bab2c722888af1a397c00822e913 
+2022-07-20 13:25:02,838 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e009bab2c722888af1a397c00822e913, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56367}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56367/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e009bab2c722888af1a397c00822e913 
+2022-07-20 13:25:02,856 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e009bab2c722888af1a397c00822e913, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56367}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56367/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e009bab2c722888af1a397c00822e913 
+2022-07-20 13:25:56,227 INFO  [Log] search() PASSED
+2022-07-20 13:25:59,815 INFO  [Log] randomSelect() PASSED 
+2022-07-20 13:26:01,902 INFO  [Log] addProduct() PASSED 
+2022-07-20 13:26:01,972 INFO  [Log] clickBasket() PASSED 
+2022-07-20 13:26:03,705 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 13:26:06,423 INFO  [Log] addCount() PASSED 
+2022-07-20 13:26:07,481 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:06:32,771 INFO  [Log] search() PASSED 
+2022-07-20 14:06:35,572 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:06:37,652 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:06:37,729 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:06:39,278 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:06:41,972 INFO  [Log] addCount() PASSED 
+2022-07-20 14:06:43,032 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:08:28,226 INFO  [Log] search() PASSED 
+2022-07-20 14:08:31,584 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:08:33,670 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:08:33,745 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:08:36,423 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:08:39,110 INFO  [Log] addCount() PASSED 
+2022-07-20 14:08:40,172 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:15:23,511 INFO  [Log] search() PASSED 
+2022-07-20 14:15:26,292 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:15:28,355 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:15:28,416 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:15:29,963 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[4]/div[1]/a"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f1e4f323bec7cacc00c372c28494df83, findElement {using=xpath, value=//*[@id="cart_module"]/div[4]/div[1]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52008}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52008/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f1e4f323bec7cacc00c372c28494df83 
+2022-07-20 14:15:29,982 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f1e4f323bec7cacc00c372c28494df83, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52008}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52008/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f1e4f323bec7cacc00c372c28494df83 
+2022-07-20 14:15:29,996 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f1e4f323bec7cacc00c372c28494df83, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52008}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52008/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f1e4f323bec7cacc00c372c28494df83 
+2022-07-20 14:15:55,745 INFO  [Log] search() PASSED 
+2022-07-20 14:15:58,357 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:16:00,415 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:16:00,477 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:16:01,991 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[4]/div[1]/a"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [94b227c38457888a52dd0c1e04523803, findElement {using=xpath, value=//*[@id="cart_module"]/div[4]/div[1]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52345}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52345/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 94b227c38457888a52dd0c1e04523803 
+2022-07-20 14:16:02,009 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [94b227c38457888a52dd0c1e04523803, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52345}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52345/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 94b227c38457888a52dd0c1e04523803 
+2022-07-20 14:16:02,024 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [94b227c38457888a52dd0c1e04523803, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52345}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52345/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 94b227c38457888a52dd0c1e04523803 
+2022-07-20 14:16:39,908 INFO  [Log] search() PASSED 
+2022-07-20 14:16:43,163 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:16:45,232 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:16:45,294 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:16:46,959 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:16:50,093 INFO  [Log] addCount() PASSED 
+2022-07-20 14:16:51,149 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:17:08,670 INFO  [Log] search() PASSED 
+2022-07-20 14:17:11,389 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:17:13,452 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:17:13,522 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:17:15,187 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:17:18,311 INFO  [Log] addCount() PASSED 
+2022-07-20 14:17:19,357 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:17:29,952 INFO  [Log] search() PASSED 
+2022-07-20 14:17:32,652 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:17:34,723 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:17:34,786 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:17:36,331 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:17:39,485 INFO  [Log] addCount() PASSED 
+2022-07-20 14:17:40,534 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:17:52,883 INFO  [Log] search() PASSED 
+2022-07-20 14:17:55,514 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:17:57,572 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:17:57,635 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:17:59,295 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:18:02,422 INFO  [Log] addCount() PASSED 
+2022-07-20 14:18:03,468 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:18:20,290 INFO  [Log] search() PASSED 
+2022-07-20 14:18:22,907 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:18:24,967 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:18:25,024 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:18:26,498 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:18:29,635 INFO  [Log] addCount() PASSED 
+2022-07-20 14:18:30,683 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:18:52,291 INFO  [Log] search() PASSED 
+2022-07-20 14:18:55,026 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:18:57,102 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:18:57,167 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:18:58,686 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:19:01,846 INFO  [Log] addCount() PASSED 
+2022-07-20 14:19:02,901 ERROR [Log] clickCross() FAILED with cause : element click intercepted: Element <i class="fa fa-times red-icon" style="font-size: 20px" title="Kaldır"></i> is not clickable at point (1151, 10). Other element would receive the click: <div class="container_12 relative">...</div>
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ebf93c40ed3a0045acadef73e9541a0c, clickElement {id=a66b940f-98e2-4c06-87cd-355eb12c06f5}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54347}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54347/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (ebf93c40ed3a0045acadef73e9541a0c)] -> xpath: //*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i]
+Session ID: ebf93c40ed3a0045acadef73e9541a0c 
+2022-07-20 14:20:29,433 INFO  [Log] search() PASSED 
+2022-07-20 14:20:32,109 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:20:34,202 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:20:34,257 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:20:35,771 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[4]/div[1]/a"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3538f4524e853fd1410be71f91987f56, findElement {using=xpath, value=//*[@id="cart_module"]/div[4]/div[1]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55174}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55174/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3538f4524e853fd1410be71f91987f56 
+2022-07-20 14:20:35,789 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3538f4524e853fd1410be71f91987f56, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55174}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55174/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3538f4524e853fd1410be71f91987f56 
+2022-07-20 14:20:36,817 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3538f4524e853fd1410be71f91987f56, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55174}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55174/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3538f4524e853fd1410be71f91987f56 
+2022-07-20 14:21:22,389 INFO  [Log] search() PASSED 
+2022-07-20 14:21:25,006 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:21:27,073 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:21:27,130 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:21:28,666 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[4]/div[1]/a"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d5451cc6c82b0e336bdde45a6e4747aa, findElement {using=xpath, value=//*[@id="cart_module"]/div[4]/div[1]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55712}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55712/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5451cc6c82b0e336bdde45a6e4747aa 
+2022-07-20 14:21:29,694 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d5451cc6c82b0e336bdde45a6e4747aa, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55712}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55712/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5451cc6c82b0e336bdde45a6e4747aa 
+2022-07-20 14:21:30,712 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d5451cc6c82b0e336bdde45a6e4747aa, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55712}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55712/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5451cc6c82b0e336bdde45a6e4747aa 
+2022-07-20 14:22:15,024 INFO  [Log] search() PASSED 
+2022-07-20 14:22:18,220 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:22:20,281 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:22:20,340 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:22:21,786 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:22:24,926 INFO  [Log] addCount() PASSED 
+2022-07-20 14:22:26,984 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:22:36,477 INFO  [Log] search() PASSED 
+2022-07-20 14:22:39,179 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:22:41,250 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:22:41,304 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:22:42,799 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:22:45,920 INFO  [Log] addCount() PASSED 
+2022-07-20 14:22:47,978 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:22:57,659 INFO  [Log] search() PASSED 
+2022-07-20 14:23:00,753 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:23:02,814 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:23:02,873 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:23:04,412 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:23:07,537 INFO  [Log] addCount() PASSED 
+2022-07-20 14:23:09,589 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:23:20,407 INFO  [Log] search() PASSED 
+2022-07-20 14:23:23,120 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:23:25,193 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:23:25,250 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:23:26,687 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:23:29,808 INFO  [Log] addCount() PASSED 
+2022-07-20 14:23:31,864 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:23:40,074 INFO  [Log] search() PASSED 
+2022-07-20 14:23:42,808 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:23:44,872 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:23:44,927 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:23:46,469 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[4]/div[1]/a"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [40fbe2d5fe39c96e9bd7b7f8afcb74ae, findElement {using=xpath, value=//*[@id="cart_module"]/div[4]/div[1]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57397}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57397/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 40fbe2d5fe39c96e9bd7b7f8afcb74ae 
+2022-07-20 14:23:47,488 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [40fbe2d5fe39c96e9bd7b7f8afcb74ae, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57397}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57397/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 40fbe2d5fe39c96e9bd7b7f8afcb74ae 
+2022-07-20 14:23:48,503 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [40fbe2d5fe39c96e9bd7b7f8afcb74ae, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57397}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57397/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 40fbe2d5fe39c96e9bd7b7f8afcb74ae 
+2022-07-20 14:24:16,825 INFO  [Log] search() PASSED 
+2022-07-20 14:24:20,163 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:24:22,222 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:24:22,276 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:24:23,939 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:24:27,064 INFO  [Log] addCount() PASSED 
+2022-07-20 14:24:29,124 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:24:39,166 INFO  [Log] search() PASSED 
+2022-07-20 14:24:41,895 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:24:43,953 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:24:44,009 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:24:45,522 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:24:48,639 INFO  [Log] addCount() PASSED 
+2022-07-20 14:24:50,710 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:25:01,624 INFO  [Log] search() PASSED 
+2022-07-20 14:25:04,629 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:25:06,700 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:25:06,760 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:25:08,242 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[4]/div[1]/a"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f8545ea4d169deeed8fc0645603de9f1, findElement {using=xpath, value=//*[@id="cart_module"]/div[4]/div[1]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58349}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58349/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f8545ea4d169deeed8fc0645603de9f1 
+2022-07-20 14:25:09,273 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f8545ea4d169deeed8fc0645603de9f1, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58349}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58349/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f8545ea4d169deeed8fc0645603de9f1 
+2022-07-20 14:25:10,290 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f8545ea4d169deeed8fc0645603de9f1, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58349}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58349/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f8545ea4d169deeed8fc0645603de9f1 
+2022-07-20 14:25:34,848 INFO  [Log] search() PASSED 
+2022-07-20 14:25:37,463 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:25:39,528 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:25:39,588 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:25:41,059 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:25:44,209 INFO  [Log] addCount() PASSED 
+2022-07-20 14:25:46,275 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:25:54,845 INFO  [Log] search() PASSED 
+2022-07-20 14:25:57,644 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:25:59,715 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:25:59,770 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:26:01,188 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:26:04,315 INFO  [Log] addCount() PASSED 
+2022-07-20 14:26:06,376 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:26:15,619 INFO  [Log] search() PASSED 
+2022-07-20 14:26:18,364 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:26:20,431 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:26:20,483 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:26:21,917 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:26:25,036 INFO  [Log] addCount() PASSED 
+2022-07-20 14:26:27,098 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:26:36,782 INFO  [Log] search() PASSED 
+2022-07-20 14:26:39,336 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:26:41,409 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:26:41,464 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:26:42,893 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:26:46,006 INFO  [Log] addCount() PASSED 
+2022-07-20 14:26:48,054 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:26:59,150 INFO  [Log] search() PASSED 
+2022-07-20 14:27:01,921 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:27:03,989 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:27:04,043 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:27:05,589 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:27:08,716 INFO  [Log] addCount() PASSED 
+2022-07-20 14:27:10,779 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:27:23,143 INFO  [Log] search() PASSED 
+2022-07-20 14:27:25,859 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:27:27,934 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:27:27,985 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:27:29,463 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:27:32,577 INFO  [Log] addCount() PASSED 
+2022-07-20 14:27:34,630 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:27:43,243 INFO  [Log] search() PASSED 
+2022-07-20 14:27:46,003 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:27:48,075 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:27:48,132 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:27:49,571 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:27:52,705 INFO  [Log] addCount() PASSED 
+2022-07-20 14:27:54,765 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:28:05,343 INFO  [Log] search() PASSED 
+2022-07-20 14:28:08,011 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:28:10,076 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:28:10,126 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:28:11,582 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:28:14,712 INFO  [Log] addCount() PASSED 
+2022-07-20 14:28:16,773 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:28:26,232 INFO  [Log] search() PASSED 
+2022-07-20 14:28:28,861 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:28:30,923 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:28:30,977 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:28:32,431 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[4]/div[1]/a"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e129cc3ff9b2e5856687b88388674a33, findElement {using=xpath, value=//*[@id="cart_module"]/div[4]/div[1]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60871}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60871/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e129cc3ff9b2e5856687b88388674a33 
+2022-07-20 14:28:33,456 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e129cc3ff9b2e5856687b88388674a33, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60871}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60871/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e129cc3ff9b2e5856687b88388674a33 
+2022-07-20 14:28:34,482 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e129cc3ff9b2e5856687b88388674a33, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60871}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60871/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e129cc3ff9b2e5856687b88388674a33 
+2022-07-20 14:34:06,177 INFO  [Log] search() PASSED 
+2022-07-20 14:34:09,392 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:34:11,456 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:34:11,506 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:34:12,950 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:34:16,064 INFO  [Log] addCount() PASSED 
+2022-07-20 14:34:18,130 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:34:27,173 INFO  [Log] search() PASSED 
+2022-07-20 14:34:29,864 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:34:31,933 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:34:31,984 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:34:33,466 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:34:36,589 INFO  [Log] addCount() PASSED 
+2022-07-20 14:34:38,644 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:34:47,790 INFO  [Log] search() PASSED 
+2022-07-20 14:34:50,460 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:34:52,529 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:34:52,584 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:34:54,059 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:34:57,178 INFO  [Log] addCount() PASSED 
+2022-07-20 14:34:59,234 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:35:09,805 INFO  [Log] search() PASSED 
+2022-07-20 14:35:12,444 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:35:14,509 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:35:14,571 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:35:16,000 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:35:19,133 INFO  [Log] addCount() PASSED 
+2022-07-20 14:35:21,192 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:35:30,020 INFO  [Log] search() PASSED 
+2022-07-20 14:35:32,697 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:35:34,759 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:35:34,812 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:35:36,238 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:35:39,361 INFO  [Log] addCount() PASSED 
+2022-07-20 14:35:41,423 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:35:50,748 INFO  [Log] search() PASSED 
+2022-07-20 14:35:53,732 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:35:55,795 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:35:55,857 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:35:57,287 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/thead/tr/td[8]/a"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [818734467339cca2f25a4c7ad89e2b08, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/thead/tr/td[8]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64920/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 818734467339cca2f25a4c7ad89e2b08 
+2022-07-20 14:35:58,305 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [818734467339cca2f25a4c7ad89e2b08, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64920/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 818734467339cca2f25a4c7ad89e2b08 
+2022-07-20 14:35:59,321 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [818734467339cca2f25a4c7ad89e2b08, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64920/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 818734467339cca2f25a4c7ad89e2b08 
+2022-07-20 14:37:16,889 INFO  [Log] search() PASSED 
+2022-07-20 14:37:20,166 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:37:22,227 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:37:22,281 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:37:23,666 ERROR [Log] clickGoBasket() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"  //*[@id="cart_module"]/div[4]/div[2]/a"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dabae7e047bb94bf2cd38eb8e23e3188, findElement {using=xpath, value=  //*[@id="cart_module"]/div[4]/div[2]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49300}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49300/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dabae7e047bb94bf2cd38eb8e23e3188 
+2022-07-20 14:37:24,696 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dabae7e047bb94bf2cd38eb8e23e3188, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49300}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49300/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dabae7e047bb94bf2cd38eb8e23e3188 
+2022-07-20 14:37:25,710 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dabae7e047bb94bf2cd38eb8e23e3188, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49300}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49300/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dabae7e047bb94bf2cd38eb8e23e3188 
+2022-07-20 14:39:17,389 INFO  [Log] search() PASSED 
+2022-07-20 14:39:20,057 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:39:22,120 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:39:22,175 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:39:23,642 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:39:26,780 INFO  [Log] addCount() PASSED 
+2022-07-20 14:39:39,945 ERROR [Log] clickCross() FAILED with cause : chrome not reachable
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6437e05416bd89a3dcb610b82c054000, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50416}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50416/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6437e05416bd89a3dcb610b82c054000 
+2022-07-20 14:39:50,859 INFO  [Log] search() PASSED 
+2022-07-20 14:39:53,604 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:39:55,654 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:39:55,705 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:39:57,189 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:40:00,314 INFO  [Log] addCount() PASSED 
+2022-07-20 14:40:02,360 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:40:11,066 INFO  [Log] search() PASSED 
+2022-07-20 14:40:14,322 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:40:16,384 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:40:16,448 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:40:18,182 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:40:21,305 INFO  [Log] addCount() PASSED 
+2022-07-20 14:40:23,360 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:40:32,293 INFO  [Log] search() PASSED 
+2022-07-20 14:40:35,658 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:40:37,724 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:40:37,782 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:40:40,142 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:40:43,269 INFO  [Log] addCount() PASSED 
+2022-07-20 14:40:45,335 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:40:57,285 INFO  [Log] search() PASSED 
+2022-07-20 14:41:00,704 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:41:02,775 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:41:02,835 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:41:04,603 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:41:07,733 INFO  [Log] addCount() PASSED 
+2022-07-20 14:41:09,793 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:41:18,580 INFO  [Log] search() PASSED 
+2022-07-20 14:41:21,911 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:41:23,982 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:41:24,037 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:41:25,474 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:41:28,593 INFO  [Log] addCount() PASSED 
+2022-07-20 14:41:30,640 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:41:39,070 INFO  [Log] search() PASSED 
+2022-07-20 14:41:42,361 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:41:44,418 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:41:44,477 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:41:46,257 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:41:49,386 INFO  [Log] addCount() PASSED 
+2022-07-20 14:41:51,445 INFO  [Log] clickCross() PASSED 
+2022-07-20 14:41:59,635 INFO  [Log] search() PASSED 
+2022-07-20 14:42:02,983 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:42:05,050 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:42:21,593 INFO  [Log] search() PASSED 
+2022-07-20 14:42:24,795 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:42:26,862 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:42:26,921 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:42:28,657 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:42:29,678 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [92fd07b703db7f9ebf8eafbd7e942046, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52663}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52663/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 92fd07b703db7f9ebf8eafbd7e942046 
+2022-07-20 14:42:30,695 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [92fd07b703db7f9ebf8eafbd7e942046, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52663}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52663/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 92fd07b703db7f9ebf8eafbd7e942046 
+2022-07-20 14:43:18,566 INFO  [Log] search() PASSED 
+2022-07-20 14:43:21,692 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:43:23,764 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:43:23,821 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:43:26,190 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:43:27,221 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4bbeed9540c17ed739803ab9a40abd8f, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53184}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53184/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bbeed9540c17ed739803ab9a40abd8f 
+2022-07-20 14:43:28,244 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4bbeed9540c17ed739803ab9a40abd8f, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53184}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53184/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bbeed9540c17ed739803ab9a40abd8f 
+2022-07-20 14:44:27,729 INFO  [Log] search() PASSED 
+2022-07-20 14:44:31,637 INFO  [Log] randomSelect() PASSED 
+2022-07-20 14:44:33,717 INFO  [Log] addProduct() PASSED 
+2022-07-20 14:44:33,768 INFO  [Log] clickBasket() PASSED 
+2022-07-20 14:44:37,097 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 14:44:38,124 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2c4fffe57de2a2f9371df921d038b7d7, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53795}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53795/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c4fffe57de2a2f9371df921d038b7d7 
+2022-07-20 14:44:39,149 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2c4fffe57de2a2f9371df921d038b7d7, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53795}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53795/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c4fffe57de2a2f9371df921d038b7d7 
+2022-07-20 15:02:38,094 INFO  [Log] search() PASSED 
+2022-07-20 15:02:40,809 INFO  [Log] randomSelect() PASSED 
+2022-07-20 15:02:43,405 INFO  [Log] addProduct() PASSED 
+2022-07-20 15:02:43,462 INFO  [Log] clickBasket() PASSED 
+2022-07-20 15:02:44,933 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 15:02:46,986 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ad649c3ad9f8df6e388d5f0040eac052, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62230}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62230/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ad649c3ad9f8df6e388d5f0040eac052 
+2022-07-20 15:02:48,004 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ad649c3ad9f8df6e388d5f0040eac052, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62230}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62230/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ad649c3ad9f8df6e388d5f0040eac052 
+2022-07-20 15:03:20,044 INFO  [Log] search() PASSED 
+2022-07-20 15:03:22,994 INFO  [Log] randomSelect() PASSED 
+2022-07-20 15:03:25,052 INFO  [Log] addProduct() PASSED 
+2022-07-20 15:03:25,103 INFO  [Log] clickBasket() PASSED 
+2022-07-20 15:03:26,557 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 15:03:27,587 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bec49867b290bafc2d668747f775ca8a, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62639}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62639/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bec49867b290bafc2d668747f775ca8a 
+2022-07-20 15:03:28,615 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bec49867b290bafc2d668747f775ca8a, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62639}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62639/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bec49867b290bafc2d668747f775ca8a 
+2022-07-20 15:07:56,126 INFO  [Log] search() PASSED 
+2022-07-20 15:07:58,967 INFO  [Log] randomSelect() PASSED 
+2022-07-20 15:08:01,027 INFO  [Log] addProduct() PASSED 
+2022-07-20 15:08:01,076 INFO  [Log] clickBasket() PASSED 
+2022-07-20 15:08:02,483 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 15:08:03,515 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b192cd115678a4765435aa04093b16fa, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64759}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64759/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b192cd115678a4765435aa04093b16fa 
+2022-07-20 15:08:04,541 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b192cd115678a4765435aa04093b16fa, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64759}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64759/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b192cd115678a4765435aa04093b16fa 
+2022-07-20 15:09:04,494 INFO  [Log] search() PASSED 
+2022-07-20 15:09:07,259 INFO  [Log] randomSelect() PASSED 
+2022-07-20 15:09:09,324 INFO  [Log] addProduct() PASSED 
+2022-07-20 15:09:09,383 INFO  [Log] clickBasket() PASSED 
+2022-07-20 15:09:10,850 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 15:09:11,876 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ab97f9f89750eb2806d2a55137280349, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65349}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65349/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ab97f9f89750eb2806d2a55137280349 
+2022-07-20 15:09:12,896 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ab97f9f89750eb2806d2a55137280349, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65349}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65349/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ab97f9f89750eb2806d2a55137280349 
+2022-07-20 15:13:34,947 INFO  [Log] search() PASSED 
+2022-07-20 15:13:37,691 INFO  [Log] randomSelect() PASSED 
+2022-07-20 15:13:39,761 INFO  [Log] addProduct() PASSED 
+2022-07-20 15:13:39,817 INFO  [Log] clickBasket() PASSED 
+2022-07-20 15:13:41,288 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 15:13:43,360 INFO  [Log] addCount() PASSED 
+2022-07-20 15:13:45,411 INFO  [Log] clickCross() PASSED 
+2022-07-20 15:14:17,080 INFO  [Log] search() PASSED 
+2022-07-20 15:14:19,816 INFO  [Log] randomSelect() PASSED 
+2022-07-20 15:14:21,889 INFO  [Log] addProduct() PASSED 
+2022-07-20 15:14:21,952 INFO  [Log] clickBasket() PASSED 
+2022-07-20 15:14:23,393 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 15:14:24,424 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7cf10492c6d5788eba0863a7b9d22e25, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51689/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7cf10492c6d5788eba0863a7b9d22e25 
+2022-07-20 15:14:25,446 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7cf10492c6d5788eba0863a7b9d22e25, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51689/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7cf10492c6d5788eba0863a7b9d22e25 
+2022-07-20 15:15:46,990 INFO  [Log] search() PASSED 
+2022-07-20 15:15:50,297 INFO  [Log] randomSelect() PASSED 
+2022-07-20 15:15:52,350 INFO  [Log] addProduct() PASSED 
+2022-07-20 15:15:52,410 INFO  [Log] clickBasket() PASSED 
+2022-07-20 15:15:53,853 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 15:15:54,882 ERROR [Log] addCount() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1b63dcb156d14b9f2cd2d0fb8ecd8d4b, findElement {using=xpath, value=//*[@id='cart_module']/div[1]/table/tbody/tr/td[4]/form/input[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52485}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52485/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1b63dcb156d14b9f2cd2d0fb8ecd8d4b 
+2022-07-20 15:15:55,904 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1b63dcb156d14b9f2cd2d0fb8ecd8d4b, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52485}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52485/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1b63dcb156d14b9f2cd2d0fb8ecd8d4b 
+2022-07-20 15:16:34,581 INFO  [Log] search() PASSED 
+2022-07-20 15:16:37,372 INFO  [Log] randomSelect() PASSED 
+2022-07-20 15:16:39,440 INFO  [Log] addProduct() PASSED 
+2022-07-20 15:16:39,493 INFO  [Log] clickBasket() PASSED 
+2022-07-20 15:16:40,917 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 15:16:40,957 ERROR [Log] addCount() FAILED with cause : not ==> expected: <true> but was: <false> 
+2022-07-20 15:16:41,990 ERROR [Log] clickCross() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-N56UL0K', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0e13474e1744f0976675606461a68013, findElement {using=xpath, value=//*[@id="cart_module"]/div[1]/table/tbody/tr/td[8]/a/i}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52967}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52967/devtoo..., se:cdpVersion: 103.0.5060.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0e13474e1744f0976675606461a68013 
+2022-07-20 15:18:17,541 INFO  [Log] search() PASSED 
+2022-07-20 15:18:20,481 INFO  [Log] randomSelect() PASSED 
+2022-07-20 15:18:22,546 INFO  [Log] addProduct() PASSED 
+2022-07-20 15:18:22,607 INFO  [Log] clickBasket() PASSED 
+2022-07-20 15:18:24,072 INFO  [Log] clickGoBasket() PASSED 
+2022-07-20 15:18:24,105 ERROR [Log] addCount() FAILED with cause : not ==> expected: <true> but was: <false> 
+2022-07-20 15:18:25,149 INFO  [Log] clickCross() PASSED 
